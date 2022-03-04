@@ -1,1 +1,9 @@
-roqaia
+
+public class Main
+{
+	public static void main(String[] args) {
+		String name="roqaia";
+		int favoriteNumber=5;
+		String hobby="draw";
+		System.out.println("Hi, My name is " + name +" , my favorite number is " + favoriteNumber+ ",and my hobby is " + hobby);
+	}
